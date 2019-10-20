@@ -1,0 +1,18 @@
+
+table {
+    color: red;
+}
+
+thead {
+    color: green;
+}
+
+tbody {
+    color: purple;
+}
+
+tr {
+    color: pink;
+}
+
+/* je constate que la couleur dans la classe tr écrase les autres couleurs car il est enfant de thead table et tbody*/
